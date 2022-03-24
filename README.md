@@ -1,5 +1,9 @@
 # ctf-python 文件說明
 
+1. [bytes2long_and_long2bytes.py](https://github.com/guan4tou2/ctf-python#bytes2long_and_long2bytes)
+2. [RSA.py](https://github.com/guan4tou2/ctf-python#RSA)
+
+
 ## bytes2long_and_long2bytes
 show function code of bytestolong() and longtobytes()
 
